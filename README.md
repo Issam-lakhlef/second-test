@@ -1,2 +1,2 @@
 # second-test
-confirm
+just a test
